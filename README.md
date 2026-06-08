@@ -117,8 +117,12 @@ If you're a colleague who found a typo — yes, I see it too. No, we don't talk 
 
 ---
 
+<div align="center">
+
 *Prepared by **Anthony Abella** | Insanity Security*
 
 > *"Stay proxied. Stay safe. Stay unbanned."* 🛡️
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ArchangelAzazil.proxy-opsec-playbook)
+
+</div>
